@@ -1,0 +1,35 @@
+{
+  "partNumber":{
+     "art1": "9.0616",
+     "art2": "90616"
+},
+
+  "OENumber" :{
+    "mercedes1" : "A 626 905 11 00",
+    "mercedes2" : "A6269051100",
+    "mercedes3" : "626 905 11 00",
+    "mercedes4" : "6269051100"
+  },
+
+  "period" :{
+    "time1" : "5",
+    "time2" : "11",
+    "time3" : "2500",
+    "time4" : " ",
+    "time5" : "//"
+
+  },
+
+  "person" :{
+    "name" : "Peter",
+    "lname" : "Johnson",
+    "company" : "ABC",
+    "email" : "abc@test.com"
+
+  },
+
+  "engine" :{
+    "ecode" :"M 200.711"
+  }
+
+}
