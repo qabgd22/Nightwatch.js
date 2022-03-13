@@ -3,13 +3,13 @@ Nightwatch.js - open source automated testing framework
 
 ## Installation and Setup
 - Install Node.js Add in System variables path for Node.js (it is probably C:\ProgramFiles\nodejs\).
-- Create a new folder Create a new folder for example newTestFramework.
-- Create a file called **nightwatch.js** input this line **require(“./node_modules/nightwatch/bin/runner.js”)**;
-- In the terminal run the command **npm init** this will create a **package.json** file.
+- Create a new folder for example newTestFramework.
+- Create a file called **nightwatch.js**. Input this line: **require(“./node_modules/nightwatch/bin/runner.js”)**;
+- In the terminal run the command **npm init**. This will create a **package.json** file.
   <br>Press Enter for all questions.
-- Now install nightwatch using npm
-  <br>Run command in terminal **npm install nightwatch --save**
-- Make new folders pages, tests, lib. In folder lib create another folder drivers.
+- Now install nightwatch using npm.
+  <br>Run command in terminal **npm install nightwatch --save**.
+- Make new folders pages, tests, lib. In the folder lib create another folder **drivers**.
 - Download the latest version of **Selenium server standalone** - <br>
   https://selenium-release.storage.googleapis.com/index.html?path=3.141/.
 - Download the latest version of Chrome Driver For windows. 
